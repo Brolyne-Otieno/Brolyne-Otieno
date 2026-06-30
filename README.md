@@ -1,4 +1,5 @@
-# Hi 👋, I'm Brolyne Okatch
+
+# Hi 👋, I'm Brolyne Otieno
 
 ### Backend Developer | Python | FastAPI | MySQL
 
@@ -10,9 +11,9 @@
 
 ## 💫 About Me
 
-I'm a backend developer passionate about building clean, secure, and scalable REST APIs using Python and FastAPI.
+I'm a backend developer passionate about building clean, secure, and scalable REST APIs using **Python** and **FastAPI**.
 
-I enjoy designing efficient backend systems, working with relational databases, and continuously improving my software engineering skills through practical projects.
+I enjoy designing efficient backend systems, working with relational databases, and continuously improving my software engineering skills by building practical projects.
 
 ---
 
@@ -34,8 +35,6 @@ I enjoy designing efficient backend systems, working with relational databases, 
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
@@ -44,15 +43,18 @@ I enjoy designing efficient backend systems, working with relational databases, 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Brolyne-Otieno&show_icons=true&theme=github_dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brolyne-Otieno&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brolyne-Otieno&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brolyne-Otieno&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=Brolyne-Otieno&theme=github-dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Brolyne-Otieno&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -60,7 +62,6 @@ I enjoy designing efficient backend systems, working with relational databases, 
 
 - Advanced FastAPI
 - REST API Design
-- Backend Architecture
 - Database Optimization
 - Software Engineering Best Practices
 
@@ -68,25 +69,31 @@ I enjoy designing efficient backend systems, working with relational databases, 
 
 ## 📂 Featured Projects
 
-🛒 **E-Commerce API** *(Currently Building)*
+### 🛒 E-Commerce API *(Currently Building)*
 
-A production-style backend featuring authentication, products, orders, carts, and MySQL.
+A production-style backend featuring:
 
----
-
-📋 **Task Management API**
-
-REST API for managing projects, users, and tasks.
-
----
-
-🔐 **Authentication API**
-
-JWT Authentication with user roles and secure login.
+- User Authentication
+- Product Management
+- Shopping Cart
+- Orders
+- MySQL Database
 
 ---
 
-🔗 **URL Shortener API**
+### 📋 Task Management API
+
+REST API for managing projects, tasks, and users.
+
+---
+
+### 🔐 Authentication API
+
+JWT Authentication with secure login and role-based access.
+
+---
+
+### 🔗 URL Shortener API
 
 A backend service inspired by Bitly.
 
@@ -95,6 +102,7 @@ A backend service inspired by Bitly.
 ## 🎯 2026 Goals
 
 - Build production-ready backend applications
+- Master FastAPI and SQLAlchemy
 - Strengthen database design skills
 - Contribute to open source
 - Land a Backend Developer role
@@ -104,6 +112,7 @@ A backend service inspired by Bitly.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Brolyne-Otieno
+- Email: **brolynebrin@gmail.com**
 
 ---
 

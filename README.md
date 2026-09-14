@@ -1,119 +1,77 @@
+Hi, I'm Brolyne Otieno 👋
 
-# Hi 👋, I'm Brolyne Otieno
+Python Backend Developer
 
-### Backend Developer | Python | FastAPI | MySQL
+I'm a backend developer focused on building practical and reliable APIs using Python, FastAPI, SQLAlchemy, and SQL databases.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+FastAPI+%7C+MySQL;Building+Clean+and+Scalable+REST+APIs;Always+Learning+New+Things" alt="Typing SVG"/>
-</p>
-
----
-
-## 💫 About Me
-
-I'm a backend developer passionate about building clean, secure, and scalable REST APIs using **Python** and **FastAPI**.
-
-I enjoy designing efficient backend systems, working with relational databases, and continuously improving my software engineering skills by building practical projects.
+I enjoy building backend systems, working with APIs, designing databases, and continuously improving my development skills.
 
 ---
 
-## 🚀 Tech Stack
+🛠️ Tech Stack
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</p>
+- Python
+- FastAPI
+- SQLAlchemy
+- MySQL
+- SQLite
+- Git & GitHub
+- REST APIs
 
 ---
 
-## 📊 GitHub Stats
+🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brolyne-Otieno&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brolyne-Otieno&layout=compact&theme=tokyonight" height="170"/>
-</p>
+🛒 E-commerce API
 
----
+A backend API for an e-commerce application built with Python and FastAPI.
 
-## 🔥 GitHub Streak
+Technologies:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Brolyne-Otieno&theme=tokyonight"/>
-</p>
+- Python
+- FastAPI
+- SQLAlchemy
+- SQLite
+- REST API
 
----
-
-## 🌱 Currently Learning
-
-- Advanced FastAPI
-- REST API Design
-- Database Optimization
-- Software Engineering Best Practices
+🔗 "View E-commerce API" (https://github.com/Brolyne-Otieno/ecommerce-api)
 
 ---
 
-## 📂 Featured Projects
+😊 Mood Tracker API
 
-### 🛒 E-Commerce API *(Currently Building)*
+A backend API for recording and managing moods and descriptions through CRUD operations.
 
-A production-style backend featuring:
+Technologies:
 
-- User Authentication
-- Product Management
-- Shopping Cart
-- Orders
-- MySQL Database
+- Python
+- FastAPI
+- SQLAlchemy
+- MySQL
+- REST API
 
----
-
-### 📋 Task Management API
-
-REST API for managing projects, tasks, and users.
+🔗 "View Mood Tracker API" (https://github.com/Brolyne-Otieno/mood-tracker)
 
 ---
 
-### 🔐 Authentication API
+📚 Currently Learning
 
-JWT Authentication with secure login and role-based access.
-
----
-
-### 🔗 URL Shortener API
-
-A backend service inspired by Bitly.
+- Advanced Python
+- Backend API development
+- Database design
+- FastAPI
+- Building larger backend applications
 
 ---
 
-## 🎯 2026 Goals
+🎯 Goals
 
-- Build production-ready backend applications
-- Master FastAPI and SQLAlchemy
-- Strengthen database design skills
-- Contribute to open source
-- Land a Backend Developer role
+I'm focused on becoming a strong backend developer by building real-world projects, improving my problem-solving skills, and continuously expanding my knowledge of backend technologies.
 
 ---
 
-## 📫 Connect With Me
+📫 Connect With Me
 
-- GitHub: https://github.com/Brolyne-Otieno
-- Email: **brolynebrin@gmail.com**
+Email: brolynebrin@gmail.com
 
----
-
-> **"Every expert was once a beginner who refused to quit."** 🚀
+GitHub: "Brolyne-Otieno" (https://github.com/Brolyne-Otieno)

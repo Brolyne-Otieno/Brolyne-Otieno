@@ -1,77 +1,102 @@
-Hi, I'm Brolyne Otieno 👋
+# 👋 Hi, I'm Brolyne Otieno
 
-Python Backend Developer
+## 🐍 Python Backend Developer
 
-I'm a backend developer focused on building practical and reliable APIs using Python, FastAPI, SQLAlchemy, and SQL databases.
+I build backend applications and REST APIs with **Python and FastAPI**, with a focus on creating practical, structured, and reliable backend systems.
 
-I enjoy building backend systems, working with APIs, designing databases, and continuously improving my development skills.
-
----
-
-🛠️ Tech Stack
-
-- Python
-- FastAPI
-- SQLAlchemy
-- MySQL
-- SQLite
-- Git & GitHub
-- REST APIs
+I'm currently developing my skills by building real projects, working with databases, and learning how different parts of a backend application connect together.
 
 ---
 
-🚀 Featured Projects
+## 🛠️ Technologies & Tools
 
-🛒 E-commerce API
-
-A backend API for an e-commerce application built with Python and FastAPI.
-
-Technologies:
-
-- Python
-- FastAPI
-- SQLAlchemy
-- SQLite
-- REST API
-
-🔗 "View E-commerce API" (https://github.com/Brolyne-Otieno/ecommerce-api)
+- 🐍 **Python**
+- ⚡ **FastAPI**
+- 🗄️ **SQLAlchemy**
+- 🐬 **MySQL**
+- 🪶 **SQLite**
+- 🔗 **REST APIs**
+- 📚 **Swagger UI**
+- 🔧 **Git & GitHub**
 
 ---
 
-😊 Mood Tracker API
+## 🚀 Featured Projects
 
-A backend API for recording and managing moods and descriptions through CRUD operations.
+### 🛒 E-commerce API
 
-Technologies:
+A RESTful e-commerce backend built with **Python and FastAPI**.
 
-- Python
-- FastAPI
-- SQLAlchemy
-- MySQL
-- REST API
+The project focuses on API development, product management, CRUD operations, database integration, data validation, and API documentation.
 
-🔗 "View Mood Tracker API" (https://github.com/Brolyne-Otieno/mood-tracker)
+**Highlights:**
+- Product CRUD operations
+- Database integration
+- Request validation
+- RESTful endpoints
+- Interactive Swagger documentation
+
+🔗 **[View E-commerce API](https://github.com/Brolyne-Otieno/ecommerce-api)**
 
 ---
 
-📚 Currently Learning
+### 😊 Mood Tracker API
+
+A backend API for recording and managing mood entries using **FastAPI, SQLAlchemy, and MySQL**.
+
+The project focuses on building a structured backend application while working with databases and implementing CRUD functionality.
+
+**Highlights:**
+- Create mood entries
+- Retrieve mood entries
+- Update mood entries
+- Delete mood entries
+- MySQL database integration
+- API validation
+- Interactive Swagger documentation
+
+🔗 **[View Mood Tracker API](https://github.com/Brolyne-Otieno/mood-tracker-api)**
+
+---
+
+## 📚 Currently Learning
+
+I'm continuously improving my backend development skills through hands-on projects.
+
+Currently focusing on:
 
 - Advanced Python
-- Backend API development
-- Database design
 - FastAPI
-- Building larger backend applications
+- REST API development
+- Database design
+- SQLAlchemy
+- Backend architecture
+- Writing cleaner and more maintainable code
 
 ---
 
-🎯 Goals
+## 🎯 My Development Goal
 
-I'm focused on becoming a strong backend developer by building real-world projects, improving my problem-solving skills, and continuously expanding my knowledge of backend technologies.
+My goal is to become a strong backend developer capable of designing, building, and maintaining real-world backend applications.
+
+I believe the best way to learn development is by **building, breaking, fixing, and improving** — one project at a time.
 
 ---
 
-📫 Connect With Me
+## 📈 What's Next?
 
-Email: brolynebrin@gmail.com
+I'm working toward building larger and more complete backend systems, while continuing to strengthen my Python and database skills.
 
-GitHub: "Brolyne-Otieno" (https://github.com/Brolyne-Otieno)
+More projects coming soon. 🚀
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** brolynebrin@gmail.com
+
+🐙 **GitHub:** [Brolyne-Otieno](https://github.com/Brolyne-Otieno)
+
+---
+
+### ⚡ Build. Learn. Improve. Repeat.
